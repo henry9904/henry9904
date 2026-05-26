@@ -30,7 +30,7 @@
 | 프로젝트 | 스택 | 설명 |
 |---|---|---|
 | [elden-ring-pvp-kr](https://github.com/henry9904/elden-ring-pvp-kr) | Python · CSV · JSON · GitHub Actions | CSV/MD 원본 → Python ETL → 정규화 JSON → CI 자동 검증 파이프라인 |
-| sql-practice *(진행중)* | SQL · PostgreSQL | 프로그래머스 SQL Kit + SQLD 기출 풀이 노트 |
+| [sql-practice](https://github.com/henry9904/sql-practice) *(진행중)* | SQL · PostgreSQL | 프로그래머스 SQL Kit + SQLD 기출 풀이 노트 |
 
 ---
 
@@ -41,7 +41,7 @@
            → Python ETL 미니 프로젝트 (PostgreSQL + pgvector)
            → Airflow + Spark + BigQuery + dbt 파이프라인 구축
            → RAG 파이프라인(VectorDB) 결합 메인 프로젝트
-           → LG CNS 등 T2 대기업 신입 DE 합격 목표
+           → End-to-End 데이터 파이프라인 구축 완료 목표
 ```
 
 ---
@@ -49,7 +49,3 @@
 ## Stats
 
 ![henry9904's GitHub stats](https://github-readme-stats.vercel.app/api?username=henry9904&show_icons=true&theme=default&hide_border=true&count_private=true)
-
----
-
-> 오늘보다 나은 내일의 파이프라인.
