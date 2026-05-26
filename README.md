@@ -1,4 +1,4 @@
-# Henry | Data Engineer
+# Crong | Data Engineer
 
 **데이터 파이프라인을 만드는 사람 — SQL · Python · ETL**
 
