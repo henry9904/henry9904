@@ -1,4 +1,4 @@
-# Henry | Data Engineer
+# Crong | Data Engineer
 
 **신뢰할 수 있는 데이터를 공급하는 데이터 엔지니어 — SQL · Python · ETL**
 
