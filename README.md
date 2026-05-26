@@ -39,7 +39,7 @@
 2026.05 ~  SQL 기본기 다지기 (프로그래머스 SQL Kit, SQLD 준비)
            → Python ETL 미니 프로젝트
            → Airflow + BigQuery + dbt 파이프라인
-           → T2/T1 DE 신입 합격 목표
+           
 ```
 
 ---
