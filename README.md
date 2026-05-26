@@ -1,4 +1,4 @@
-# Crong | Data Engineer
+# Henry | Data Engineer
 
 **신뢰할 수 있는 데이터를 공급하는 데이터 엔지니어 — SQL · Python · ETL**
 
@@ -17,6 +17,7 @@
 
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -35,11 +36,12 @@
 
 ## Currently
 
-```
+```text
 2026.05 ~  SQL 기본기 다지기 (프로그래머스 SQL Kit, SQLD 준비)
-           → Python ETL 미니 프로젝트
-           → Airflow + BigQuery + dbt 파이프라인
-           
+           → Python ETL 미니 프로젝트 (PostgreSQL + pgvector)
+           → Airflow + Spark + BigQuery + dbt 파이프라인 구축
+           → RAG 파이프라인(VectorDB) 결합 메인 프로젝트
+           → LG CNS 등 T2 대기업 신입 DE 합격 목표
 ```
 
 ---
@@ -50,4 +52,4 @@
 
 ---
 
-
+> 오늘보다 나은 내일의 파이프라인.
